@@ -1,0 +1,19 @@
+# Please update pip and setuptools by 'pip install --upgrade pip' and 'pip install --upgrade setuptools'
+#You can easily install all the below modules by getting this file, go to its path and hit 'pip install -r -U requirements.txt' for windows
+datetime
+random
+time
+speechRecognition
+pyttsx3
+os
+subprocess
+webbrowser
+pyaudio #If install error, get unofficial .whl of pyaudio from www.lfd.uci.edu/~gohlke/pythonlibs/ go to path and pip install something.whl
+playsound
+wikipedia
+wolframalpha
+smtplib
+psutil
+requests
+multiprocessing
+colorama
